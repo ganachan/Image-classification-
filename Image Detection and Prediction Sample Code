@@ -1,3 +1,6 @@
+
+
+
 root@ganavm1:~/cogntive/images# cat sample.py
 from azure.cognitiveservices.vision.customvision.training import CustomVisionTrainingClient
 from azure.cognitiveservices.vision.customvision.training.models import ImageFileCreateBatch, ImageFileCreateEntry
